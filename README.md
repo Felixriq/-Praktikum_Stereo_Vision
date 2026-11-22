@@ -2,7 +2,7 @@
 
 **Target:** kalibrasi kamera HP untuk mendapatkan $f_x$, mengambil dua foto objek diam, menghitung *disparity*, lalu mengukur *depth* (jarak arah depan kamera).
 
-**Buka kode:** [`Starter_Stereo_1HP.ipynb`](Starter_Stereo_1HP.ipynb). README ini berisi **apa yang dilakukan dan apa yang dicatat**. Notebook berisi kode yang dijalankan.
+**Buka kode:** [`Stereo_Thoriq_Sekar.ipynb`](Starter_Stereo_1HP.ipynb). README ini berisi **apa yang dilakukan dan apa yang dicatat**. Notebook berisi kode yang dijalankan.
 
 ![Set-up satu HP](images/5.png)
 
