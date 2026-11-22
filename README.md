@@ -1,4 +1,4 @@
-# Praktikum Stereo Vision — 1 HP Digeser
+# Praktikum Stereo Vision  (1 HP Digeser)
 
 **Target:** kalibrasi kamera HP untuk mendapatkan $f_x$, mengambil dua foto objek diam, menghitung *disparity*, lalu mengukur *depth* (jarak arah depan kamera).
 
