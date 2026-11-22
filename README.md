@@ -34,7 +34,7 @@
 1. Ambil **15–25 foto chessboard** dengan kamera HP tersebut.
 2. Variasikan posisi papan di foto: tengah, tepi, miring, dekat, dan agak jauh.
 3. Seluruh sudut bagian dalam harus terlihat dan tajam; jangan blur.
-4. Beri nama `cal_01.jpg`, `cal_02.jpg`, dan seterusnya.
+4. Beri nama `gmb_01.jpg`, `gmb_02.jpg`, dan seterusnya.
 
 **Catat:** jumlah foto yang diambil: `___` foto. Jangan mencatat $f_x$ dulu: nilainya baru muncul setelah kode kalibrasi dijalankan.
 
@@ -57,12 +57,12 @@
 ```text
 praktikum_stereo/
 ├── calibration/
-│   ├── cal_01.jpg
-│   ├── cal_02.jpg
+│   ├── gmb_01.jpg
+│   ├── gmb_02.jpg
 │   └── ...
 ├── stereo/
-│   ├── left.jpg
-│   └── right.jpg
+│   ├── kiri.jpg
+│   └── kanan.jpg
 └── output/       # dibuat otomatis oleh notebook
 ```
 
